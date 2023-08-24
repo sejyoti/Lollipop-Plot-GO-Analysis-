@@ -1,0 +1,7 @@
+"Enrichment FDR","nGenes","Pathway Genes","Fold Enrichment","Pathway","URL","Genes"
+0.0495348224532771,1,4,167.75,"Mitochondrial proton-transporting ATP synthase complex, catalytic sector F(1) "," http://amigo.geneontology.org/amigo/term/GO:0000275"," ATP5F1C"
+0.0495348224532771,1,6,111.833333333333,"ATP-binding cassette (ABC) transporter complex "," http://amigo.geneontology.org/amigo/term/GO:0043190"," ABCA2"
+0.0495348224532771,1,7,95.8571428571429,"Proton-transporting ATP synthase complex, catalytic core F(1) "," http://amigo.geneontology.org/amigo/term/GO:0045261"," ATP5F1C"
+0.0495348224532771,1,9,74.5555555555556,"Extrinsic component of external side of plasma membrane "," http://amigo.geneontology.org/amigo/term/GO:0031232"," ARSA"
+0.0495348224532771,1,9,74.5555555555556,"HFE-transferrin receptor complex "," http://amigo.geneontology.org/amigo/term/GO:1990712"," BMPR1B"
+0.0495348224532771,2,70,19.1714285714286,"Integral component of presynaptic membrane "," http://amigo.geneontology.org/amigo/term/GO:0099056"," ADRA1A  ADORA1"
