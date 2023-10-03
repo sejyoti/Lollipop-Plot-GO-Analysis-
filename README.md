@@ -1,6 +1,5 @@
 # Lollipop-Plot-GO-Analysis-
 
-<img src="images/r_logo.png" alt="R Logo">
 
 
 A lollipop plot, in the context of Gene Ontology (GO) analysis, is a visualization used to represent the results of such an analysis in a graphical and informative manner. GO analysis is a bioinformatics technique that aims to determine the functional significance of a set of genes or proteins by categorizing them according to the Gene Ontology Consortium's controlled vocabulary.
